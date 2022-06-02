@@ -187,6 +187,7 @@
 
 .object16 {
   height: 17vw;
+  width: 17vw;
   margin-top: 3vw;
   border-radius: 2vw;
   border: 0.3vw solid black;
@@ -516,6 +517,7 @@
 
   .object16 {
     height: 30vw;
+    width: 30vw;
     margin-top: 3vw;
     border-radius: 2vw;
     border: 0.3vw solid black;
@@ -838,6 +840,7 @@
 
   .object16 {
     height: 17vw;
+    width: 17vw;
     margin-top: 3vw;
     border-radius: 2vw;
     border: 0.3vw solid black;
